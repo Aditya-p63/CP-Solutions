@@ -12,7 +12,7 @@ Synced automatically by SolveBase.
 
 ## Codeforces
 
-Solutions by [Aditya_p63](https://codeforces.com/profile/Aditya_p63), organized by difficulty rating.
+Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficulty rating.
 
 **Solved: 4**
 
@@ -72,5 +72,5 @@ Solutions organized by difficulty level.
 | — | 0 |
 
 
-_Last updated: 2026-09-11_
+_Last updated: 2026-09-24_
 <!-- /cf-sync -->
