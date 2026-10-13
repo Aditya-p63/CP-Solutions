@@ -6,7 +6,7 @@ public:
             x = 1LL * x * x;
         }
 
-        sort(v.begin(), v.end());
+        nth_element(v.begin(), v.begin() + v.size()/2, v.end());
 
         int n = v.size();
 
