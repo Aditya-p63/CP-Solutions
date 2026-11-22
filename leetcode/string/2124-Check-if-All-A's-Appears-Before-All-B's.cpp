@@ -3,9 +3,8 @@ public:
     bool checkString(string s) {
         int n = s.size();
         bool flag = false;
-        for(char c : s){
-            if(c=='b') flag = true;
-            if( flag == true && c == 'a') return false;
+        for(int i = 0; i < n-1; i++){
+            if(s[i]=='b' && s[i+1]=='a') return false;
         }
         return true;
     }
